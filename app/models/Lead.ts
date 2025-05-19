@@ -23,3 +23,7 @@ const LeadSchema = new Schema<ILead>({
 });
 
 export default models.Lead || model<ILead>("Lead", LeadSchema);
+
+/* Author
+Your Name – Muhammad Usman
+Email: usmenqurashi@gmail.com */

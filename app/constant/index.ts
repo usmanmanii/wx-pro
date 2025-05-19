@@ -10,3 +10,7 @@ export const LEADS = [
 ]
 
 export const ITEMS_PER_PAGE = 3
+
+
+/* Copywriter:
+Your Name – M Usman */
