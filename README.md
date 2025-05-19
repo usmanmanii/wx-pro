@@ -6,7 +6,7 @@ Coverd Features
 - Manage state with redux store 
 - Mock API added (using mongodb)
 - Filter, search and pagination added in dashboard page
-- UI Responsive
+- UI Responsive, best practices followed
 
 Countinue/In progress Features: 
 - Auth page for dashboard
